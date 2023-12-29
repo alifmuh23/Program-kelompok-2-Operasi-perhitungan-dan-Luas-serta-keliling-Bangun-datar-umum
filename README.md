@@ -3,4 +3,4 @@
 <div> Kelas : SI23 B </div>
 <div> Prodi : SISTEM INFORMASI </div>
 
-* Kode Program Perhitungan`main2.py`
+* Kode Program Perhitungan`main-2.py`
